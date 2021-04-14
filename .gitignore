@@ -15,7 +15,6 @@
 # production
 /build
 .env
-/Response.js
 
 # misc
 .DS_Store
